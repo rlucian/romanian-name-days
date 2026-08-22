@@ -35,6 +35,17 @@ Subscribe in Google Calendar or Apple Calendar:
 webcal://raw.githubusercontent.com/rlucian/romanian-name-days/main/data/onomastici.ics
 ```
 
+## Where to get it
+
+| Channel | |
+|---|---|
+| **GitHub** (canonical) | this repository — JSON, CSV, `.ics`, and the build that produces them |
+| **npm** | [`zile-onomastice`](https://www.npmjs.com/package/zile-onomastice) — typed, zero dependencies |
+| **Hugging Face** | [`radool/romanian-name-days`](https://huggingface.co/datasets/radool/romanian-name-days) — for `datasets` and ML pipelines |
+
+All three carry the same data. This repository is the source of truth; the
+other two are published from it.
+
 ## What's in here
 
 | File | Rows | What it is |

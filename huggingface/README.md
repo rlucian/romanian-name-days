@@ -119,6 +119,16 @@ The reference implementation is `easter.mjs` in the
 [GitHub repository](https://github.com/rlucian/romanian-name-days), which also
 ships pre-resolved calendars for 2026–2035 and `.ics` calendar feeds.
 
+### Other formats
+
+The CSVs here are the ML-friendly view. The same data is also published as:
+
+- **[GitHub](https://github.com/rlucian/romanian-name-days)** — canonical JSON,
+  CSV and `.ics`, plus the build and its tests
+- **[`zile-onomastice`](https://www.npmjs.com/package/zile-onomastice)** on npm
+  — typed, zero dependencies, with the Easter computus and date resolution
+  built in
+
 ## Provenance
 
 Feast dates follow the calendar of the **Romanian Orthodox Church**
