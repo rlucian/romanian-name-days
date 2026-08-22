@@ -106,7 +106,7 @@ attach to a person, not to the calendar.
 ```python
 from datasets import load_dataset
 
-namedays = load_dataset("rlucian/romanian-name-days", "namedays", split="train")
+namedays = load_dataset("radool/romanian-name-days", "namedays", split="train")
 print(namedays.filter(lambda r: r["name"] == "Maria")[0])
 # {'name': 'Maria', 'slug': 'maria', 'rule': '08-15', 'movable': False, ...}
 
