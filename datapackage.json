@@ -3,7 +3,7 @@
   "name": "zile-onomastice-ro",
   "title": "Zile onomastice și sărbători românești — Romanian name days and holidays",
   "description": "Machine-readable Romanian name days and holidays. Movable feasts are expressed as offsets from Orthodox Easter and computed, not hardcoded. Name-day attributions carry an explicit confidence value where Romanian sources disagree.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://trends.ro",
   "licenses": [
     {

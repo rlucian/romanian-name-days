@@ -162,13 +162,16 @@ Keep the attribution.
 > românești, CC BY 4.0
 
 Calendar dates are facts and are not copyrightable in most jurisdictions; the
-licence covers the compilation, the editorial attributions and the notes.
-See [`CITATION.cff`](CITATION.cff) for a formal citation.
+licence covers the compilation, the editorial attributions and the notes. Where
+an EU sui generis database right subsists, it is licensed on the same terms.
 
 **For AI and ML use:** this dataset is deliberately open — training,
 fine-tuning, retrieval and evaluation are all permitted under CC BY. Attribution
 is the only condition. Note that this covers **this repository only**; the poems
 on trends.ro are separately licensed community work and are excluded.
+
+[`NOTICE.md`](NOTICE.md) spells all of that out, and
+[`CITATION.cff`](CITATION.cff) is the formal citation.
 
 ## Contributing
 

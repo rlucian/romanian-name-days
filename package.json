@@ -1,6 +1,6 @@
 {
   "name": "zile-onomastice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Romanian name days and holidays (zile onomastice și sărbători românești) as open data. Movable feasts computed from the Orthodox computus, not hardcoded. Zero dependencies.",
   "keywords": [
     "romania",
@@ -45,7 +45,8 @@
     "easter.mjs",
     "data/",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "NOTICE.md"
   ],
   "engines": {
     "node": ">=18"
