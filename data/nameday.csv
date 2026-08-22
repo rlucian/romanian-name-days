@@ -1,0 +1,87 @@
+name,slug,rule,movable,gender,diminutives,confidence,note
+Adrian,adrian,08-26,false,m,Adi,established,
+Adriana,adriana,08-26,false,f,Adri,convention,"Paired with Sf. Adrian și Natalia (08-26) by root-name convention, not an independently attested female saint."
+Alexandra,alexandra,08-30,false,f,Alexa; Sandra; Sanda,established,
+Alexandru,alexandru,08-30,false,m,Alex; Sandu; Sașa,established,
+Ana,ana,07-25,false,f,Anuța; Anica; Anicuța,established,
+Anca,anca,07-25,false,f,Ancuța,convention,Treated in Romanian practice as a short form of Ana (07-25).
+Andreea,andreea,11-30,false,f,Andra; Andreuța,established,
+Andrei,andrei,11-30,false,m,Andi,established,
+Anton,anton,01-17,false,m,Toni,convention,"Short form of Antonie, paired with Sf. Antonie cel Mare (01-17)."
+Antonia,antonia,01-17,false,f,Toni,convention,Feminine of Antonie; root-name convention.
+Antonie,antonie,01-17,false,m,,established,
+Atanasie,atanasie,01-18,false,m,Tase,established,
+Cătălin,catalin,11-25,false,m,Cătă,convention,"Paired with Sf. Mc. Ecaterina (11-25) by root-name convention, via Cătălina."
+Cătălina,catalina,11-25,false,f,Cătă; Lina,convention,Romanian derivative of Ecaterina; root-name convention.
+Constantin,constantin,05-21,false,m,Costel; Costică; Dinu,established,
+Cristian,cristian,07-24,false,m,Cristi,established,
+Cristina,cristina,07-24,false,f,Tina; Cristi; Cristinuța,established,
+Daniel,daniel,12-17,false,m,Dani; Danuț,established,
+Daniela,daniela,12-17,false,f,Dana; Dani; Danuța,established,
+David,david,12-26,false,m,,approximate,"The Sf. Proroc David feast is technically the movable 'Sunday after Nativity' (with Iosif and Iacov), not a fixed date — doesn't fit the MM-DD/easter±N grammar. Popular media conventionally cite 26 December as fixed; used here as an approximation."
+Denisa,denisa,10-03,false,f,Deni,single-source,"Only one source found (calendarbisericesc.ro), linking Denisa to Sf. Dionisie; same source also mentions 17 December as an alternate. Needs a second independent source before shipping."
+Dumitru,dumitru,10-26,false,m,Mitică; Dumitrache,established,
+Ecaterina,ecaterina,11-25,false,f,Cati; Catinca; Tinca,established,
+Elena,elena,05-21,false,f,Lenuța; Ela; Leana,established,
+Emil,emil,07-18,false,m,Emi,convention,"Paired with Sf. Emilian de la Durostorum (07-18) by root-name convention; a second Sf. Emilian Mărturisitorul is celebrated 08-08 — sources are split between two distinct saints named Emilian, so this is convention, not a direct match."
+Filip,filip,11-14,false,m,,established,
+Florentina,florentina,easter-7,true,f,Flori; Florica,established,"Part of the 'Florii' group of flower-derived names (with Florin, Viorel, Viorica) — confirmed by g4media.ro's list of names celebrated on Florii."
+Florin,florin,easter-7,true,m,Florinel; Flori,established,"Florii is a movable group celebration for flower-derived names — Florin is the single most common name in that group (~335,000 Romanians per g4media.ro)."
+Gabriel,gabriel,11-08,false,m,Gabi,established,
+Gabriela,gabriela,11-08,false,f,Gabi,established,
+George,george,04-23,false,m,Gigi; Gogu,established,
+Georgeta,georgeta,04-23,false,f,Geta,convention,Feminine of Gheorghe; same convention as Georgiana.
+Georgiana,georgiana,04-23,false,f,Geo; Gina; Giana,convention,"One low-quality search hit suggested 15 April for Georgiana; could not confirm it against any named source, so rejected in favor of the standard root-name convention (Gheorghe, 04-23)."
+Gheorghe,gheorghe,04-23,false,m,Gheorghiță; Ghiță; Guță,established,
+Grigore,grigore,01-25,false,m,Grig,established,Sf. Grigore Teologul (01-25). Also commemorated 30 January with the Trei Ierarhi; the 25 January feast is the one specific to the name.
+Haralambie,haralambie,02-10,false,m,Lambe,established,
+Ignat,ignat,12-20,false,m,,convention,"Romanian short form of Ignatie; Sf. Mc. Ignatie Teoforul (12-20), the day of the traditional Ignatul porcilor."
+Ilie,ilie,07-20,false,m,Iliuță,established,
+Ilinca,ilinca,07-20,false,f,,convention,Feminine derived from Ilie; paired with Sf. Prooroc Ilie (07-20).
+Ioan,ioan,01-07,false,m,,established,
+Ioana,ioana,01-07,false,f,Oana; Ionica; Nuți,established,
+Ion,ion,01-07,false,m,Ionel; Nelu,established,
+Ionela,ionela,01-07,false,f,Ela; Nela,established,
+Ionuț,ionut,01-07,false,m,Nuțu; Ionuțu,established,
+Irina,irina,05-05,false,f,Iri; Rina,established,
+Mădălina,madalina,07-22,false,f,Mada,convention,Romanian derivative of Magdalena; root-name convention.
+Magdalena,magdalena,07-22,false,f,Magda,established,
+Marcu,marcu,04-25,false,m,,established,
+Maria,maria,08-15,false,f,Mărioara; Mia; Maricica; Măriuța,established,
+Marian,marian,08-15,false,m,Mari; Marinel,established,
+Mariana,mariana,08-15,false,f,Mari; Mariuca; Mara,established,
+Marinela,marinela,08-15,false,f,Nela,established,
+Matei,matei,11-16,false,m,,established,
+Maxim,maxim,01-21,false,m,,established,
+Mihaela,mihaela,11-08,false,f,Ela; Miki,established,
+Mihai,mihai,11-08,false,m,Mișu; Mihăiță,established,
+Mihail,mihail,11-08,false,m,Mișu,established,
+Nicolae,nicolae,12-06,false,m,Nae; Nicu; Nicușor,established,
+Nicoleta,nicoleta,12-06,false,f,Nico; Nicuța; Coca,convention,"Feminine of Nicolae, paired with Sf. Nicolae (12-06) by root-name convention, not an independently attested female saint."
+Niculina,niculina,12-06,false,f,Nina; Lina,convention,Feminine of Nicolae; same convention as Nicoleta.
+Oana,oana,01-07,false,f,Oanca,convention,"Treated in Romanian practice as a short form of Ioana (01-07). One source (calendarbisericesc.ro) instead cites 02 December, tied to a different sinaxar entry — sources disagree, flagging."
+Pantelimon,pantelimon,07-27,false,m,,established,
+Parascheva,parascheva,10-14,false,f,Chiva,established,"The sinaxar spelling of the name already seeded as Paraschiva; both forms are in common use, so both are listed."
+Paraschiva,paraschiva,10-14,false,f,Chiva; Veta; Vetuța,established,
+Pavel,pavel,06-29,false,m,,established,
+Petre,petre,06-29,false,m,Petrache,convention,Romanian variant of Petru; Sf. Ap. Petru și Pavel (06-29).
+Petru,petru,06-29,false,m,Petrică; Petrișor,established,
+Radu,radu,08-16,false,m,Răduț,established,"Feast of the Brâncoveanu martyrs (Sf. Constantin Brâncoveanu și fiii săi, incl. Radu) — 16 August."
+Sânziana,sanziana,06-24,false,f,,convention,"Folk name tied to Sânziene, numele popular al sărbătorii Nașterea Sf. Ioan Botezătorul (06-24). Not a sinaxar entry."
+Sava,sava,12-05,false,m,,established,
+Simion,simion,02-03,false,m,Simi,convention,Romanian form of Simeon; Sf. Simeon și Ana (02-03).
+Simona,simona,09-01,false,f,Mona; Simi,established,
+Sofia,sofia,09-17,false,f,Sofi,established,
+Spiridon,spiridon,12-12,false,m,Spiru,established,
+Ștefan,stefan,12-27,false,m,Ștefănel; Fane,established,
+Ștefania,stefania,12-27,false,f,Ștefi; Fani,convention,Feminine of Ștefan; paired with Sf. Arhidiacon Ștefan (12-27).
+Tatiana,tatiana,01-12,false,f,Tati; Tania,established,
+Teodor,teodor,02-17,false,m,Doru; Teo,established,Sf. Mc. Teodor Tiron (02-17). A second Sf. Teodor Stratilat falls on 08 February — sources split between the two; 17 February is the more widely cited nameday.
+Teodora,teodora,02-17,false,f,Teo; Dora,convention,Feminine of Teodor; root-name convention.
+Trifon,trifon,02-01,false,m,,established,
+Varvara,varvara,12-04,false,f,,established,
+Vasile,vasile,01-01,false,m,Vasilică; Silică; Lică,established,
+Vasilica,vasilica,01-01,false,f,Sica,convention,"Feminine of Vasile; paired with Sf. Vasile cel Mare (01-01) by root-name convention, not an independently attested saint."
+Victor,victor,11-11,false,m,Vicu,established,
+Viorel,viorel,easter-7,true,m,,established,"Part of the 'Florii' group of flower-derived names, alongside Florin and Florentina."
+Viorica,viorica,easter-7,true,f,Vio,established,"Part of the 'Florii' group of flower-derived names, alongside Florin and Florentina."

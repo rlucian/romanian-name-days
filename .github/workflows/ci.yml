@@ -1,0 +1,48 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  # Movable feasts are resolved for a fixed window of years. This catches the
+  # window quietly expiring before anyone notices the data has gone stale.
+  schedule:
+    - cron: '0 6 1 1 *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Test
+        run: node --test test.mjs api.test.mjs
+
+      - name: Rebuild
+        run: node build.mjs --from 2026 --to 2035
+
+      - name: Check the published files match their sources
+        # The derived files are committed so consumers can curl them directly.
+        # That only works if they are never stale, so a rebuild that changes
+        # anything is a failure: someone edited the canonical JSON and did not
+        # regenerate. Builds are byte-reproducible by design, so a clean tree
+        # here is a real signal, not luck.
+        run: |
+          if ! git diff --quiet; then
+            echo "::error::Generated files are out of date. Run: node build.mjs --from 2026 --to 2035"
+            git diff --stat
+            exit 1
+          fi
+
+      - name: Check the current year is still covered
+        run: |
+          YEAR=$(date -u +%Y)
+          if [ ! -f "data/calendar-${YEAR}.json" ]; then
+            echo "::error::No resolved calendar for ${YEAR}. Extend the --to year and rebuild."
+            exit 1
+          fi
+          echo "calendar-${YEAR}.json present"

@@ -1,0 +1,918 @@
+[
+  {
+    "name": "Adrian",
+    "slug": "adrian",
+    "namedayRule": "08-26",
+    "gender": "m",
+    "diminutives": [
+      "Adi"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Adriana",
+    "slug": "adriana",
+    "namedayRule": "08-26",
+    "gender": "f",
+    "diminutives": [
+      "Adri"
+    ],
+    "confidence": "convention",
+    "note": "Paired with Sf. Adrian și Natalia (08-26) by root-name convention, not an independently attested female saint."
+  },
+  {
+    "name": "Alexandra",
+    "slug": "alexandra",
+    "namedayRule": "08-30",
+    "gender": "f",
+    "diminutives": [
+      "Alexa",
+      "Sandra",
+      "Sanda"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Alexandru",
+    "slug": "alexandru",
+    "namedayRule": "08-30",
+    "gender": "m",
+    "diminutives": [
+      "Alex",
+      "Sandu",
+      "Sașa"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Ana",
+    "slug": "ana",
+    "namedayRule": "07-25",
+    "gender": "f",
+    "diminutives": [
+      "Anuța",
+      "Anica",
+      "Anicuța"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Anca",
+    "slug": "anca",
+    "namedayRule": "07-25",
+    "gender": "f",
+    "diminutives": [
+      "Ancuța"
+    ],
+    "confidence": "convention",
+    "note": "Treated in Romanian practice as a short form of Ana (07-25)."
+  },
+  {
+    "name": "Andreea",
+    "slug": "andreea",
+    "namedayRule": "11-30",
+    "gender": "f",
+    "diminutives": [
+      "Andra",
+      "Andreuța"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Andrei",
+    "slug": "andrei",
+    "namedayRule": "11-30",
+    "gender": "m",
+    "diminutives": [
+      "Andi"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Anton",
+    "slug": "anton",
+    "namedayRule": "01-17",
+    "gender": "m",
+    "diminutives": [
+      "Toni"
+    ],
+    "confidence": "convention",
+    "note": "Short form of Antonie, paired with Sf. Antonie cel Mare (01-17)."
+  },
+  {
+    "name": "Antonia",
+    "slug": "antonia",
+    "namedayRule": "01-17",
+    "gender": "f",
+    "diminutives": [
+      "Toni"
+    ],
+    "confidence": "convention",
+    "note": "Feminine of Antonie; root-name convention."
+  },
+  {
+    "name": "Antonie",
+    "slug": "antonie",
+    "namedayRule": "01-17",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Atanasie",
+    "slug": "atanasie",
+    "namedayRule": "01-18",
+    "gender": "m",
+    "diminutives": [
+      "Tase"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Cătălin",
+    "slug": "catalin",
+    "namedayRule": "11-25",
+    "gender": "m",
+    "diminutives": [
+      "Cătă"
+    ],
+    "confidence": "convention",
+    "note": "Paired with Sf. Mc. Ecaterina (11-25) by root-name convention, via Cătălina."
+  },
+  {
+    "name": "Cătălina",
+    "slug": "catalina",
+    "namedayRule": "11-25",
+    "gender": "f",
+    "diminutives": [
+      "Cătă",
+      "Lina"
+    ],
+    "confidence": "convention",
+    "note": "Romanian derivative of Ecaterina; root-name convention."
+  },
+  {
+    "name": "Constantin",
+    "slug": "constantin",
+    "namedayRule": "05-21",
+    "gender": "m",
+    "diminutives": [
+      "Costel",
+      "Costică",
+      "Dinu"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Cristian",
+    "slug": "cristian",
+    "namedayRule": "07-24",
+    "gender": "m",
+    "diminutives": [
+      "Cristi"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Cristina",
+    "slug": "cristina",
+    "namedayRule": "07-24",
+    "gender": "f",
+    "diminutives": [
+      "Tina",
+      "Cristi",
+      "Cristinuța"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Daniel",
+    "slug": "daniel",
+    "namedayRule": "12-17",
+    "gender": "m",
+    "diminutives": [
+      "Dani",
+      "Danuț"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Daniela",
+    "slug": "daniela",
+    "namedayRule": "12-17",
+    "gender": "f",
+    "diminutives": [
+      "Dana",
+      "Dani",
+      "Danuța"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "David",
+    "slug": "david",
+    "namedayRule": "12-26",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "approximate",
+    "note": "The Sf. Proroc David feast is technically the movable 'Sunday after Nativity' (with Iosif and Iacov), not a fixed date — doesn't fit the MM-DD/easter±N grammar. Popular media conventionally cite 26 December as fixed; used here as an approximation."
+  },
+  {
+    "name": "Denisa",
+    "slug": "denisa",
+    "namedayRule": "10-03",
+    "gender": "f",
+    "diminutives": [
+      "Deni"
+    ],
+    "confidence": "single-source",
+    "note": "Only one source found (calendarbisericesc.ro), linking Denisa to Sf. Dionisie; same source also mentions 17 December as an alternate. Needs a second independent source before shipping."
+  },
+  {
+    "name": "Dumitru",
+    "slug": "dumitru",
+    "namedayRule": "10-26",
+    "gender": "m",
+    "diminutives": [
+      "Mitică",
+      "Dumitrache"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Ecaterina",
+    "slug": "ecaterina",
+    "namedayRule": "11-25",
+    "gender": "f",
+    "diminutives": [
+      "Cati",
+      "Catinca",
+      "Tinca"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Elena",
+    "slug": "elena",
+    "namedayRule": "05-21",
+    "gender": "f",
+    "diminutives": [
+      "Lenuța",
+      "Ela",
+      "Leana"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Emil",
+    "slug": "emil",
+    "namedayRule": "07-18",
+    "gender": "m",
+    "diminutives": [
+      "Emi"
+    ],
+    "confidence": "convention",
+    "note": "Paired with Sf. Emilian de la Durostorum (07-18) by root-name convention; a second Sf. Emilian Mărturisitorul is celebrated 08-08 — sources are split between two distinct saints named Emilian, so this is convention, not a direct match."
+  },
+  {
+    "name": "Filip",
+    "slug": "filip",
+    "namedayRule": "11-14",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Florentina",
+    "slug": "florentina",
+    "namedayRule": "easter-7",
+    "gender": "f",
+    "diminutives": [
+      "Flori",
+      "Florica"
+    ],
+    "confidence": "established",
+    "note": "Part of the 'Florii' group of flower-derived names (with Florin, Viorel, Viorica) — confirmed by g4media.ro's list of names celebrated on Florii."
+  },
+  {
+    "name": "Florin",
+    "slug": "florin",
+    "namedayRule": "easter-7",
+    "gender": "m",
+    "diminutives": [
+      "Florinel",
+      "Flori"
+    ],
+    "confidence": "established",
+    "note": "Florii is a movable group celebration for flower-derived names — Florin is the single most common name in that group (~335,000 Romanians per g4media.ro)."
+  },
+  {
+    "name": "Gabriel",
+    "slug": "gabriel",
+    "namedayRule": "11-08",
+    "gender": "m",
+    "diminutives": [
+      "Gabi"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Gabriela",
+    "slug": "gabriela",
+    "namedayRule": "11-08",
+    "gender": "f",
+    "diminutives": [
+      "Gabi"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "George",
+    "slug": "george",
+    "namedayRule": "04-23",
+    "gender": "m",
+    "diminutives": [
+      "Gigi",
+      "Gogu"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Georgeta",
+    "slug": "georgeta",
+    "namedayRule": "04-23",
+    "gender": "f",
+    "diminutives": [
+      "Geta"
+    ],
+    "confidence": "convention",
+    "note": "Feminine of Gheorghe; same convention as Georgiana."
+  },
+  {
+    "name": "Georgiana",
+    "slug": "georgiana",
+    "namedayRule": "04-23",
+    "gender": "f",
+    "diminutives": [
+      "Geo",
+      "Gina",
+      "Giana"
+    ],
+    "confidence": "convention",
+    "note": "One low-quality search hit suggested 15 April for Georgiana; could not confirm it against any named source, so rejected in favor of the standard root-name convention (Gheorghe, 04-23)."
+  },
+  {
+    "name": "Gheorghe",
+    "slug": "gheorghe",
+    "namedayRule": "04-23",
+    "gender": "m",
+    "diminutives": [
+      "Gheorghiță",
+      "Ghiță",
+      "Guță"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Grigore",
+    "slug": "grigore",
+    "namedayRule": "01-25",
+    "gender": "m",
+    "diminutives": [
+      "Grig"
+    ],
+    "confidence": "established",
+    "note": "Sf. Grigore Teologul (01-25). Also commemorated 30 January with the Trei Ierarhi; the 25 January feast is the one specific to the name."
+  },
+  {
+    "name": "Haralambie",
+    "slug": "haralambie",
+    "namedayRule": "02-10",
+    "gender": "m",
+    "diminutives": [
+      "Lambe"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Ignat",
+    "slug": "ignat",
+    "namedayRule": "12-20",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "convention",
+    "note": "Romanian short form of Ignatie; Sf. Mc. Ignatie Teoforul (12-20), the day of the traditional Ignatul porcilor."
+  },
+  {
+    "name": "Ilie",
+    "slug": "ilie",
+    "namedayRule": "07-20",
+    "gender": "m",
+    "diminutives": [
+      "Iliuță"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Ilinca",
+    "slug": "ilinca",
+    "namedayRule": "07-20",
+    "gender": "f",
+    "diminutives": [],
+    "confidence": "convention",
+    "note": "Feminine derived from Ilie; paired with Sf. Prooroc Ilie (07-20)."
+  },
+  {
+    "name": "Ioan",
+    "slug": "ioan",
+    "namedayRule": "01-07",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Ioana",
+    "slug": "ioana",
+    "namedayRule": "01-07",
+    "gender": "f",
+    "diminutives": [
+      "Oana",
+      "Ionica",
+      "Nuți"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Ion",
+    "slug": "ion",
+    "namedayRule": "01-07",
+    "gender": "m",
+    "diminutives": [
+      "Ionel",
+      "Nelu"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Ionela",
+    "slug": "ionela",
+    "namedayRule": "01-07",
+    "gender": "f",
+    "diminutives": [
+      "Ela",
+      "Nela"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Ionuț",
+    "slug": "ionut",
+    "namedayRule": "01-07",
+    "gender": "m",
+    "diminutives": [
+      "Nuțu",
+      "Ionuțu"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Irina",
+    "slug": "irina",
+    "namedayRule": "05-05",
+    "gender": "f",
+    "diminutives": [
+      "Iri",
+      "Rina"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Mădălina",
+    "slug": "madalina",
+    "namedayRule": "07-22",
+    "gender": "f",
+    "diminutives": [
+      "Mada"
+    ],
+    "confidence": "convention",
+    "note": "Romanian derivative of Magdalena; root-name convention."
+  },
+  {
+    "name": "Magdalena",
+    "slug": "magdalena",
+    "namedayRule": "07-22",
+    "gender": "f",
+    "diminutives": [
+      "Magda"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Marcu",
+    "slug": "marcu",
+    "namedayRule": "04-25",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Maria",
+    "slug": "maria",
+    "namedayRule": "08-15",
+    "gender": "f",
+    "diminutives": [
+      "Mărioara",
+      "Mia",
+      "Maricica",
+      "Măriuța"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Marian",
+    "slug": "marian",
+    "namedayRule": "08-15",
+    "gender": "m",
+    "diminutives": [
+      "Mari",
+      "Marinel"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Mariana",
+    "slug": "mariana",
+    "namedayRule": "08-15",
+    "gender": "f",
+    "diminutives": [
+      "Mari",
+      "Mariuca",
+      "Mara"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Marinela",
+    "slug": "marinela",
+    "namedayRule": "08-15",
+    "gender": "f",
+    "diminutives": [
+      "Nela"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Matei",
+    "slug": "matei",
+    "namedayRule": "11-16",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Maxim",
+    "slug": "maxim",
+    "namedayRule": "01-21",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Mihaela",
+    "slug": "mihaela",
+    "namedayRule": "11-08",
+    "gender": "f",
+    "diminutives": [
+      "Ela",
+      "Miki"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Mihai",
+    "slug": "mihai",
+    "namedayRule": "11-08",
+    "gender": "m",
+    "diminutives": [
+      "Mișu",
+      "Mihăiță"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Mihail",
+    "slug": "mihail",
+    "namedayRule": "11-08",
+    "gender": "m",
+    "diminutives": [
+      "Mișu"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Nicolae",
+    "slug": "nicolae",
+    "namedayRule": "12-06",
+    "gender": "m",
+    "diminutives": [
+      "Nae",
+      "Nicu",
+      "Nicușor"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Nicoleta",
+    "slug": "nicoleta",
+    "namedayRule": "12-06",
+    "gender": "f",
+    "diminutives": [
+      "Nico",
+      "Nicuța",
+      "Coca"
+    ],
+    "confidence": "convention",
+    "note": "Feminine of Nicolae, paired with Sf. Nicolae (12-06) by root-name convention, not an independently attested female saint."
+  },
+  {
+    "name": "Niculina",
+    "slug": "niculina",
+    "namedayRule": "12-06",
+    "gender": "f",
+    "diminutives": [
+      "Nina",
+      "Lina"
+    ],
+    "confidence": "convention",
+    "note": "Feminine of Nicolae; same convention as Nicoleta."
+  },
+  {
+    "name": "Oana",
+    "slug": "oana",
+    "namedayRule": "01-07",
+    "gender": "f",
+    "diminutives": [
+      "Oanca"
+    ],
+    "confidence": "convention",
+    "note": "Treated in Romanian practice as a short form of Ioana (01-07). One source (calendarbisericesc.ro) instead cites 02 December, tied to a different sinaxar entry — sources disagree, flagging."
+  },
+  {
+    "name": "Pantelimon",
+    "slug": "pantelimon",
+    "namedayRule": "07-27",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Parascheva",
+    "slug": "parascheva",
+    "namedayRule": "10-14",
+    "gender": "f",
+    "diminutives": [
+      "Chiva"
+    ],
+    "confidence": "established",
+    "note": "The sinaxar spelling of the name already seeded as Paraschiva; both forms are in common use, so both are listed."
+  },
+  {
+    "name": "Paraschiva",
+    "slug": "paraschiva",
+    "namedayRule": "10-14",
+    "gender": "f",
+    "diminutives": [
+      "Chiva",
+      "Veta",
+      "Vetuța"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Pavel",
+    "slug": "pavel",
+    "namedayRule": "06-29",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Petre",
+    "slug": "petre",
+    "namedayRule": "06-29",
+    "gender": "m",
+    "diminutives": [
+      "Petrache"
+    ],
+    "confidence": "convention",
+    "note": "Romanian variant of Petru; Sf. Ap. Petru și Pavel (06-29)."
+  },
+  {
+    "name": "Petru",
+    "slug": "petru",
+    "namedayRule": "06-29",
+    "gender": "m",
+    "diminutives": [
+      "Petrică",
+      "Petrișor"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Radu",
+    "slug": "radu",
+    "namedayRule": "08-16",
+    "gender": "m",
+    "diminutives": [
+      "Răduț"
+    ],
+    "confidence": "established",
+    "note": "Feast of the Brâncoveanu martyrs (Sf. Constantin Brâncoveanu și fiii săi, incl. Radu) — 16 August."
+  },
+  {
+    "name": "Sânziana",
+    "slug": "sanziana",
+    "namedayRule": "06-24",
+    "gender": "f",
+    "diminutives": [],
+    "confidence": "convention",
+    "note": "Folk name tied to Sânziene, numele popular al sărbătorii Nașterea Sf. Ioan Botezătorul (06-24). Not a sinaxar entry."
+  },
+  {
+    "name": "Sava",
+    "slug": "sava",
+    "namedayRule": "12-05",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Simion",
+    "slug": "simion",
+    "namedayRule": "02-03",
+    "gender": "m",
+    "diminutives": [
+      "Simi"
+    ],
+    "confidence": "convention",
+    "note": "Romanian form of Simeon; Sf. Simeon și Ana (02-03)."
+  },
+  {
+    "name": "Simona",
+    "slug": "simona",
+    "namedayRule": "09-01",
+    "gender": "f",
+    "diminutives": [
+      "Mona",
+      "Simi"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Sofia",
+    "slug": "sofia",
+    "namedayRule": "09-17",
+    "gender": "f",
+    "diminutives": [
+      "Sofi"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Spiridon",
+    "slug": "spiridon",
+    "namedayRule": "12-12",
+    "gender": "m",
+    "diminutives": [
+      "Spiru"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Ștefan",
+    "slug": "stefan",
+    "namedayRule": "12-27",
+    "gender": "m",
+    "diminutives": [
+      "Ștefănel",
+      "Fane"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Ștefania",
+    "slug": "stefania",
+    "namedayRule": "12-27",
+    "gender": "f",
+    "diminutives": [
+      "Ștefi",
+      "Fani"
+    ],
+    "confidence": "convention",
+    "note": "Feminine of Ștefan; paired with Sf. Arhidiacon Ștefan (12-27)."
+  },
+  {
+    "name": "Tatiana",
+    "slug": "tatiana",
+    "namedayRule": "01-12",
+    "gender": "f",
+    "diminutives": [
+      "Tati",
+      "Tania"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Teodor",
+    "slug": "teodor",
+    "namedayRule": "02-17",
+    "gender": "m",
+    "diminutives": [
+      "Doru",
+      "Teo"
+    ],
+    "confidence": "established",
+    "note": "Sf. Mc. Teodor Tiron (02-17). A second Sf. Teodor Stratilat falls on 08 February — sources split between the two; 17 February is the more widely cited nameday."
+  },
+  {
+    "name": "Teodora",
+    "slug": "teodora",
+    "namedayRule": "02-17",
+    "gender": "f",
+    "diminutives": [
+      "Teo",
+      "Dora"
+    ],
+    "confidence": "convention",
+    "note": "Feminine of Teodor; root-name convention."
+  },
+  {
+    "name": "Trifon",
+    "slug": "trifon",
+    "namedayRule": "02-01",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Varvara",
+    "slug": "varvara",
+    "namedayRule": "12-04",
+    "gender": "f",
+    "diminutives": [],
+    "confidence": "established"
+  },
+  {
+    "name": "Vasile",
+    "slug": "vasile",
+    "namedayRule": "01-01",
+    "gender": "m",
+    "diminutives": [
+      "Vasilică",
+      "Silică",
+      "Lică"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Vasilica",
+    "slug": "vasilica",
+    "namedayRule": "01-01",
+    "gender": "f",
+    "diminutives": [
+      "Sica"
+    ],
+    "confidence": "convention",
+    "note": "Feminine of Vasile; paired with Sf. Vasile cel Mare (01-01) by root-name convention, not an independently attested saint."
+  },
+  {
+    "name": "Victor",
+    "slug": "victor",
+    "namedayRule": "11-11",
+    "gender": "m",
+    "diminutives": [
+      "Vicu"
+    ],
+    "confidence": "established"
+  },
+  {
+    "name": "Viorel",
+    "slug": "viorel",
+    "namedayRule": "easter-7",
+    "gender": "m",
+    "diminutives": [],
+    "confidence": "established",
+    "note": "Part of the 'Florii' group of flower-derived names, alongside Florin and Florentina."
+  },
+  {
+    "name": "Viorica",
+    "slug": "viorica",
+    "namedayRule": "easter-7",
+    "gender": "f",
+    "diminutives": [
+      "Vio"
+    ],
+    "confidence": "established",
+    "note": "Part of the 'Florii' group of flower-derived names, alongside Florin and Florentina."
+  }
+]

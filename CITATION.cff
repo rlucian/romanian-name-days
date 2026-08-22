@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+title: Zile onomastice și sărbători românești — Romanian name days and holidays
+message: >-
+  If you use this dataset, please cite it. Attribution is the only condition of
+  the licence.
+type: dataset
+authors:
+  - name: trends.ro
+    website: https://trends.ro
+repository-code: https://github.com/rlucian/romanian-name-days
+url: https://trends.ro
+abstract: >-
+  A machine-readable dataset of Romanian name days (zile onomastice) and
+  holidays. Covers 86 given names with their diminutives, gender and name-day
+  rule, and 35 occasions. Movable feasts are expressed as offsets from Orthodox
+  Easter and computed from the Julian computus rather than hardcoded, so the
+  dataset resolves correctly for any year. Name-day attributions where Romanian
+  sources disagree carry an explicit confidence value and an explanatory note
+  instead of a silently chosen date.
+keywords:
+  - Romania
+  - Romanian
+  - name days
+  - onomastica
+  - calendar
+  - holidays
+  - Orthodox
+  - computus
+  - open data
+license: CC-BY-4.0
+version: 1.0.0
+date-released: '2026-08-22'

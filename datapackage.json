@@ -1,0 +1,74 @@
+{
+  "$schema": "https://datapackage.org/profiles/2.0/datapackage.json",
+  "name": "zile-onomastice-ro",
+  "title": "Zile onomastice și sărbători românești — Romanian name days and holidays",
+  "description": "Machine-readable Romanian name days and holidays. Movable feasts are expressed as offsets from Orthodox Easter and computed, not hardcoded. Name-day attributions carry an explicit confidence value where Romanian sources disagree.",
+  "version": "1.0.0",
+  "homepage": "https://trends.ro",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0 International",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "trends.ro",
+      "path": "https://trends.ro",
+      "roles": ["author", "publisher"]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Calendarul Bisericii Ortodoxe Române",
+      "path": "https://calendar.patriarhia.ro/"
+    }
+  ],
+  "keywords": ["romania", "name-days", "onomastica", "calendar", "holidays", "orthodox"],
+  "resources": [
+    {
+      "name": "nameday",
+      "path": "data/nameday.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "title": "Name days",
+      "description": "One row per Romanian given name, with its name-day rule.",
+      "dialect": { "header": true, "delimiter": "," },
+      "schema": {
+        "primaryKey": ["slug"],
+        "fields": [
+          { "name": "name", "type": "string", "description": "Romanian given name, with diacritics.", "constraints": { "required": true } },
+          { "name": "slug", "type": "string", "description": "ASCII, URL-safe, stable identifier.", "constraints": { "required": true, "unique": true } },
+          { "name": "rule", "type": "string", "description": "'MM-DD' fixed date, or 'easter±N' days from Orthodox Easter.", "constraints": { "required": true, "pattern": "^(\\d{2}-\\d{2}|easter[+-]\\d+)$" } },
+          { "name": "movable", "type": "boolean", "description": "True when the rule follows Easter." },
+          { "name": "gender", "type": "string", "description": "m = masculine, f = feminine, u = unspecified.", "constraints": { "enum": ["m", "f", "u"] } },
+          { "name": "diminutives", "type": "string", "description": "Semicolon-separated familiar forms." },
+          { "name": "confidence", "type": "string", "description": "How well-attested the attribution is. 'established' = direct saint's feast; 'convention' = attached to a root name by Romanian practice; 'approximate' = the real feast does not fit the date grammar; 'single-source' = found in only one source.", "constraints": { "required": true, "enum": ["established", "convention", "approximate", "single-source"] } },
+          { "name": "note", "type": "string", "description": "Explanation of the caveat. Always present when confidence is not 'established'." }
+        ]
+      }
+    },
+    {
+      "name": "holidays",
+      "path": "data/holidays.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "title": "Holidays and occasions",
+      "description": "Holidays, major name-day feasts, and undated life events.",
+      "dialect": { "header": true, "delimiter": "," },
+      "schema": {
+        "primaryKey": ["slug"],
+        "fields": [
+          { "name": "slug", "type": "string", "constraints": { "required": true, "unique": true } },
+          { "name": "title", "type": "string", "constraints": { "required": true } },
+          { "name": "kind", "type": "string", "description": "'holiday', 'nameday' (a major feast carrying several names), or 'life-event' (birthday, wedding, condolences — not tied to a date).", "constraints": { "required": true, "enum": ["holiday", "nameday", "life-event"] } },
+          { "name": "rule", "type": "string", "description": "'MM-DD' or 'easter±N'. Empty only for life events." },
+          { "name": "movable", "type": "boolean" }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,857 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//trends.ro//Zile onomastice si sarbatori romanesti//RO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sărbători românești
+X-WR-CALDESC:Sărbători din calendarul românesc\, inclusiv cele mobile. S
+ ursa: https://trends.ro
+X-WR-TIMEZONE:Europe/Bucharest
+BEGIN:VEVENT
+UID:occasion-anul-nou@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+RRULE:FREQ=YEARLY
+SUMMARY:Anul Nou
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/anul-nou
+URL:https://trends.ro/sarbatori/anul-nou
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-boboteaza@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+RRULE:FREQ=YEARLY
+SUMMARY:Bobotează
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/boboteaza
+URL:https://trends.ro/sarbatori/boboteaza
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-craciun@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+RRULE:FREQ=YEARLY
+SUMMARY:Crăciun
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/craciun
+URL:https://trends.ro/sarbatori/craciun
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-dragobete@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+RRULE:FREQ=YEARLY
+SUMMARY:Dragobete
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/dragobete
+URL:https://trends.ro/sarbatori/dragobete
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320425
+DTEND;VALUE=DATE:20320426
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330417
+DTEND;VALUE=DATE:20330418
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340402
+DTEND;VALUE=DATE:20340403
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350422
+DTEND;VALUE=DATE:20350423
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290517
+DTEND;VALUE=DATE:20290518
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300606
+DTEND;VALUE=DATE:20300607
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320610
+DTEND;VALUE=DATE:20320611
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330602
+DTEND;VALUE=DATE:20330603
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340518
+DTEND;VALUE=DATE:20340519
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350607
+DTEND;VALUE=DATE:20350608
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280421
+DTEND;VALUE=DATE:20280422
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290413
+DTEND;VALUE=DATE:20290414
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300503
+DTEND;VALUE=DATE:20300504
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310418
+DTEND;VALUE=DATE:20310419
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320507
+DTEND;VALUE=DATE:20320508
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330429
+DTEND;VALUE=DATE:20330430
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340414
+DTEND;VALUE=DATE:20340415
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350504
+DTEND;VALUE=DATE:20350505
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-martisor@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+RRULE:FREQ=YEARLY
+SUMMARY:Mărțișor
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/martisor
+URL:https://trends.ro/sarbatori/martisor
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290408
+DTEND;VALUE=DATE:20290409
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300428
+DTEND;VALUE=DATE:20300429
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310413
+DTEND;VALUE=DATE:20310414
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320502
+DTEND;VALUE=DATE:20320503
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330424
+DTEND;VALUE=DATE:20330425
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340409
+DTEND;VALUE=DATE:20340410
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350429
+DTEND;VALUE=DATE:20350430
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-revelion@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+RRULE:FREQ=YEARLY
+SUMMARY:Revelion
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/revelion
+URL:https://trends.ro/sarbatori/revelion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290527
+DTEND;VALUE=DATE:20290528
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300616
+DTEND;VALUE=DATE:20300617
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310601
+DTEND;VALUE=DATE:20310602
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320620
+DTEND;VALUE=DATE:20320621
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330612
+DTEND;VALUE=DATE:20330613
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340528
+DTEND;VALUE=DATE:20340529
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350617
+DTEND;VALUE=DATE:20350618
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-andrei@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Andrei
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-andrei
+URL:https://trends.ro/sarbatori/sf-andrei
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-constantin-si-elena@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+SUMMARY:Sfinții Constantin și Elena
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-constantin-si-elena
+URL:https://trends.ro/sarbatori/sf-constantin-si-elena
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-dumitru@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Dumitru
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-dumitru
+URL:https://trends.ro/sarbatori/sf-dumitru
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-ecaterina@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+RRULE:FREQ=YEARLY
+SUMMARY:Sfânta Ecaterina
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-ecaterina
+URL:https://trends.ro/sarbatori/sf-ecaterina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-gheorghe@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Gheorghe
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-gheorghe
+URL:https://trends.ro/sarbatori/sf-gheorghe
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-ilie@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Ilie
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-ilie
+URL:https://trends.ro/sarbatori/sf-ilie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-ion@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Ion
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-ion
+URL:https://trends.ro/sarbatori/sf-ion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-maria@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:Sfânta Maria Mare
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-maria
+URL:https://trends.ro/sarbatori/sf-maria
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-mihail-si-gavriil@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+SUMMARY:Sfinții Mihail și Gavriil
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-mihail-si-gavriil
+URL:https://trends.ro/sarbatori/sf-mihail-si-gavriil
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-nectarie@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Nectarie
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-nectarie
+URL:https://trends.ro/sarbatori/sf-nectarie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-nicolae@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Nicolae
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-nicolae
+URL:https://trends.ro/sarbatori/sf-nicolae
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-parascheva@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+RRULE:FREQ=YEARLY
+SUMMARY:Sfânta Parascheva
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-parascheva
+URL:https://trends.ro/sarbatori/sf-parascheva
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-petru-si-pavel@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+RRULE:FREQ=YEARLY
+SUMMARY:Sfinții Petru și Pavel
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-petru-si-pavel
+URL:https://trends.ro/sarbatori/sf-petru-si-pavel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-spiridon@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Spiridon
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-spiridon
+URL:https://trends.ro/sarbatori/sf-spiridon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-stefan@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Ștefan
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-stefan
+URL:https://trends.ro/sarbatori/sf-stefan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-vasile@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Vasile
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-vasile
+URL:https://trends.ro/sarbatori/sf-vasile
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sfanta-maria-mica@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+RRULE:FREQ=YEARLY
+SUMMARY:Sfânta Maria Mică
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sfanta-maria-mica
+URL:https://trends.ro/sarbatori/sfanta-maria-mica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-ziua-copilului@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+RRULE:FREQ=YEARLY
+SUMMARY:Ziua Copilului
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/ziua-copilului
+URL:https://trends.ro/sarbatori/ziua-copilului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-ziua-culturii-nationale@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+RRULE:FREQ=YEARLY
+SUMMARY:Ziua Culturii Naționale
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/ziua-culturii-nationale
+URL:https://trends.ro/sarbatori/ziua-culturii-nationale
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-ziua-femeii@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+RRULE:FREQ=YEARLY
+SUMMARY:Ziua Femeii
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/ziua-femeii
+URL:https://trends.ro/sarbatori/ziua-femeii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-ziua-nationala@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+RRULE:FREQ=YEARLY
+SUMMARY:Ziua Națională a României
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/ziua-nationala
+URL:https://trends.ro/sarbatori/ziua-nationala
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

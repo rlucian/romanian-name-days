@@ -1,0 +1,2280 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//trends.ro//Zile onomastice si sarbatori romanesti//RO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Calendar românesc — onomastici și sărbători
+X-WR-CALDESC:Zile onomastice și sărbători. Sursa: https://trends.ro
+X-WR-TIMEZONE:Europe/Bucharest
+BEGIN:VEVENT
+UID:nameday-adrian@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Adrian
+DESCRIPTION:Adrian își serbează numele. Sursa: https://trends.ro/onomast
+ ica/adrian
+URL:https://trends.ro/onomastica/adrian
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-adriana@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Adriana
+DESCRIPTION:Adriana își serbează numele. Sursa: https://trends.ro/onomas
+ tica/adriana
+URL:https://trends.ro/onomastica/adriana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-alexandra@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Alexandra
+DESCRIPTION:Alexandra își serbează numele. Sursa: https://trends.ro/onom
+ astica/alexandra
+URL:https://trends.ro/onomastica/alexandra
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-alexandru@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Alexandru
+DESCRIPTION:Alexandru își serbează numele. Sursa: https://trends.ro/onom
+ astica/alexandru
+URL:https://trends.ro/onomastica/alexandru
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ana@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ana
+DESCRIPTION:Ana își serbează numele. Sursa: https://trends.ro/onomastica
+ /ana
+URL:https://trends.ro/onomastica/ana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-anca@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Anca
+DESCRIPTION:Anca își serbează numele. Sursa: https://trends.ro/onomastic
+ a/anca
+URL:https://trends.ro/onomastica/anca
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-andreea@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Andreea
+DESCRIPTION:Andreea își serbează numele. Sursa: https://trends.ro/onomas
+ tica/andreea
+URL:https://trends.ro/onomastica/andreea
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-andrei@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Andrei
+DESCRIPTION:Andrei își serbează numele. Sursa: https://trends.ro/onomast
+ ica/andrei
+URL:https://trends.ro/onomastica/andrei
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-anton@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Anton
+DESCRIPTION:Anton își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/anton
+URL:https://trends.ro/onomastica/anton
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-antonia@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Antonia
+DESCRIPTION:Antonia își serbează numele. Sursa: https://trends.ro/onomas
+ tica/antonia
+URL:https://trends.ro/onomastica/antonia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-antonie@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Antonie
+DESCRIPTION:Antonie își serbează numele. Sursa: https://trends.ro/onomas
+ tica/antonie
+URL:https://trends.ro/onomastica/antonie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-atanasie@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Atanasie
+DESCRIPTION:Atanasie își serbează numele. Sursa: https://trends.ro/onoma
+ stica/atanasie
+URL:https://trends.ro/onomastica/atanasie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-catalin@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Cătălin
+DESCRIPTION:Cătălin își serbează numele. Sursa: https://trends.ro/onom
+ astica/catalin
+URL:https://trends.ro/onomastica/catalin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-catalina@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Cătălina
+DESCRIPTION:Cătălina își serbează numele. Sursa: https://trends.ro/ono
+ mastica/catalina
+URL:https://trends.ro/onomastica/catalina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-constantin@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Constantin
+DESCRIPTION:Constantin își serbează numele. Sursa: https://trends.ro/ono
+ mastica/constantin
+URL:https://trends.ro/onomastica/constantin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-cristian@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Cristian
+DESCRIPTION:Cristian își serbează numele. Sursa: https://trends.ro/onoma
+ stica/cristian
+URL:https://trends.ro/onomastica/cristian
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-cristina@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Cristina
+DESCRIPTION:Cristina își serbează numele. Sursa: https://trends.ro/onoma
+ stica/cristina
+URL:https://trends.ro/onomastica/cristina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-daniel@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Daniel
+DESCRIPTION:Daniel își serbează numele. Sursa: https://trends.ro/onomast
+ ica/daniel
+URL:https://trends.ro/onomastica/daniel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-daniela@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Daniela
+DESCRIPTION:Daniela își serbează numele. Sursa: https://trends.ro/onomas
+ tica/daniela
+URL:https://trends.ro/onomastica/daniela
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-david@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: David
+DESCRIPTION:David își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/david
+URL:https://trends.ro/onomastica/david
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-denisa@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Denisa
+DESCRIPTION:Denisa își serbează numele. Sursa: https://trends.ro/onomast
+ ica/denisa
+URL:https://trends.ro/onomastica/denisa
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-dumitru@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Dumitru
+DESCRIPTION:Dumitru își serbează numele. Sursa: https://trends.ro/onomas
+ tica/dumitru
+URL:https://trends.ro/onomastica/dumitru
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ecaterina@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ecaterina
+DESCRIPTION:Ecaterina își serbează numele. Sursa: https://trends.ro/onom
+ astica/ecaterina
+URL:https://trends.ro/onomastica/ecaterina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-elena@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Elena
+DESCRIPTION:Elena își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/elena
+URL:https://trends.ro/onomastica/elena
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-emil@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Emil
+DESCRIPTION:Emil își serbează numele. Sursa: https://trends.ro/onomastic
+ a/emil
+URL:https://trends.ro/onomastica/emil
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-filip@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Filip
+DESCRIPTION:Filip își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/filip
+URL:https://trends.ro/onomastica/filip
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320425
+DTEND;VALUE=DATE:20320426
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330417
+DTEND;VALUE=DATE:20330418
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340402
+DTEND;VALUE=DATE:20340403
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florentina-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350422
+DTEND;VALUE=DATE:20350423
+SUMMARY:Onomastică: Florentina
+DESCRIPTION:Florentina își serbează numele (sărbătoare mobilă\, easte
+ r-7). Sursa: https://trends.ro/onomastica/florentina
+URL:https://trends.ro/onomastica/florentina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320425
+DTEND;VALUE=DATE:20320426
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330417
+DTEND;VALUE=DATE:20330418
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340402
+DTEND;VALUE=DATE:20340403
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-florin-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350422
+DTEND;VALUE=DATE:20350423
+SUMMARY:Onomastică: Florin
+DESCRIPTION:Florin își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/florin
+URL:https://trends.ro/onomastica/florin
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-gabriel@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Gabriel
+DESCRIPTION:Gabriel își serbează numele. Sursa: https://trends.ro/onomas
+ tica/gabriel
+URL:https://trends.ro/onomastica/gabriel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-gabriela@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Gabriela
+DESCRIPTION:Gabriela își serbează numele. Sursa: https://trends.ro/onoma
+ stica/gabriela
+URL:https://trends.ro/onomastica/gabriela
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-george@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: George
+DESCRIPTION:George își serbează numele. Sursa: https://trends.ro/onomast
+ ica/george
+URL:https://trends.ro/onomastica/george
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-georgeta@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Georgeta
+DESCRIPTION:Georgeta își serbează numele. Sursa: https://trends.ro/onoma
+ stica/georgeta
+URL:https://trends.ro/onomastica/georgeta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-georgiana@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Georgiana
+DESCRIPTION:Georgiana își serbează numele. Sursa: https://trends.ro/onom
+ astica/georgiana
+URL:https://trends.ro/onomastica/georgiana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-gheorghe@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Gheorghe
+DESCRIPTION:Gheorghe își serbează numele. Sursa: https://trends.ro/onoma
+ stica/gheorghe
+URL:https://trends.ro/onomastica/gheorghe
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-grigore@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Grigore
+DESCRIPTION:Grigore își serbează numele. Sursa: https://trends.ro/onomas
+ tica/grigore
+URL:https://trends.ro/onomastica/grigore
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-haralambie@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Haralambie
+DESCRIPTION:Haralambie își serbează numele. Sursa: https://trends.ro/ono
+ mastica/haralambie
+URL:https://trends.ro/onomastica/haralambie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ignat@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ignat
+DESCRIPTION:Ignat își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/ignat
+URL:https://trends.ro/onomastica/ignat
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ilie@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ilie
+DESCRIPTION:Ilie își serbează numele. Sursa: https://trends.ro/onomastic
+ a/ilie
+URL:https://trends.ro/onomastica/ilie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ilinca@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ilinca
+DESCRIPTION:Ilinca își serbează numele. Sursa: https://trends.ro/onomast
+ ica/ilinca
+URL:https://trends.ro/onomastica/ilinca
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ioan@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ioan
+DESCRIPTION:Ioan își serbează numele. Sursa: https://trends.ro/onomastic
+ a/ioan
+URL:https://trends.ro/onomastica/ioan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ioana@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ioana
+DESCRIPTION:Ioana își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/ioana
+URL:https://trends.ro/onomastica/ioana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ion@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ion
+DESCRIPTION:Ion își serbează numele. Sursa: https://trends.ro/onomastica
+ /ion
+URL:https://trends.ro/onomastica/ion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ionela@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ionela
+DESCRIPTION:Ionela își serbează numele. Sursa: https://trends.ro/onomast
+ ica/ionela
+URL:https://trends.ro/onomastica/ionela
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-ionut@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ionuț
+DESCRIPTION:Ionuț își serbează numele. Sursa: https://trends.ro/onomast
+ ica/ionut
+URL:https://trends.ro/onomastica/ionut
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-irina@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Irina
+DESCRIPTION:Irina își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/irina
+URL:https://trends.ro/onomastica/irina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-madalina@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Mădălina
+DESCRIPTION:Mădălina își serbează numele. Sursa: https://trends.ro/ono
+ mastica/madalina
+URL:https://trends.ro/onomastica/madalina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-magdalena@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Magdalena
+DESCRIPTION:Magdalena își serbează numele. Sursa: https://trends.ro/onom
+ astica/magdalena
+URL:https://trends.ro/onomastica/magdalena
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-marcu@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Marcu
+DESCRIPTION:Marcu își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/marcu
+URL:https://trends.ro/onomastica/marcu
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-maria@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Maria
+DESCRIPTION:Maria își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/maria
+URL:https://trends.ro/onomastica/maria
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-marian@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Marian
+DESCRIPTION:Marian își serbează numele. Sursa: https://trends.ro/onomast
+ ica/marian
+URL:https://trends.ro/onomastica/marian
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-mariana@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Mariana
+DESCRIPTION:Mariana își serbează numele. Sursa: https://trends.ro/onomas
+ tica/mariana
+URL:https://trends.ro/onomastica/mariana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-marinela@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Marinela
+DESCRIPTION:Marinela își serbează numele. Sursa: https://trends.ro/onoma
+ stica/marinela
+URL:https://trends.ro/onomastica/marinela
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-matei@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Matei
+DESCRIPTION:Matei își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/matei
+URL:https://trends.ro/onomastica/matei
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-maxim@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Maxim
+DESCRIPTION:Maxim își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/maxim
+URL:https://trends.ro/onomastica/maxim
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-mihaela@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Mihaela
+DESCRIPTION:Mihaela își serbează numele. Sursa: https://trends.ro/onomas
+ tica/mihaela
+URL:https://trends.ro/onomastica/mihaela
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-mihai@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Mihai
+DESCRIPTION:Mihai își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/mihai
+URL:https://trends.ro/onomastica/mihai
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-mihail@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Mihail
+DESCRIPTION:Mihail își serbează numele. Sursa: https://trends.ro/onomast
+ ica/mihail
+URL:https://trends.ro/onomastica/mihail
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-nicolae@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Nicolae
+DESCRIPTION:Nicolae își serbează numele. Sursa: https://trends.ro/onomas
+ tica/nicolae
+URL:https://trends.ro/onomastica/nicolae
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-nicoleta@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Nicoleta
+DESCRIPTION:Nicoleta își serbează numele. Sursa: https://trends.ro/onoma
+ stica/nicoleta
+URL:https://trends.ro/onomastica/nicoleta
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-niculina@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Niculina
+DESCRIPTION:Niculina își serbează numele. Sursa: https://trends.ro/onoma
+ stica/niculina
+URL:https://trends.ro/onomastica/niculina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-oana@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Oana
+DESCRIPTION:Oana își serbează numele. Sursa: https://trends.ro/onomastic
+ a/oana
+URL:https://trends.ro/onomastica/oana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-pantelimon@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Pantelimon
+DESCRIPTION:Pantelimon își serbează numele. Sursa: https://trends.ro/ono
+ mastica/pantelimon
+URL:https://trends.ro/onomastica/pantelimon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-parascheva@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Parascheva
+DESCRIPTION:Parascheva își serbează numele. Sursa: https://trends.ro/ono
+ mastica/parascheva
+URL:https://trends.ro/onomastica/parascheva
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-paraschiva@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Paraschiva
+DESCRIPTION:Paraschiva își serbează numele. Sursa: https://trends.ro/ono
+ mastica/paraschiva
+URL:https://trends.ro/onomastica/paraschiva
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-pavel@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Pavel
+DESCRIPTION:Pavel își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/pavel
+URL:https://trends.ro/onomastica/pavel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-petre@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Petre
+DESCRIPTION:Petre își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/petre
+URL:https://trends.ro/onomastica/petre
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-petru@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Petru
+DESCRIPTION:Petru își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/petru
+URL:https://trends.ro/onomastica/petru
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-radu@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Radu
+DESCRIPTION:Radu își serbează numele. Sursa: https://trends.ro/onomastic
+ a/radu
+URL:https://trends.ro/onomastica/radu
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-sanziana@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Sânziana
+DESCRIPTION:Sânziana își serbează numele. Sursa: https://trends.ro/onom
+ astica/sanziana
+URL:https://trends.ro/onomastica/sanziana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-sava@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Sava
+DESCRIPTION:Sava își serbează numele. Sursa: https://trends.ro/onomastic
+ a/sava
+URL:https://trends.ro/onomastica/sava
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-simion@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Simion
+DESCRIPTION:Simion își serbează numele. Sursa: https://trends.ro/onomast
+ ica/simion
+URL:https://trends.ro/onomastica/simion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-simona@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Simona
+DESCRIPTION:Simona își serbează numele. Sursa: https://trends.ro/onomast
+ ica/simona
+URL:https://trends.ro/onomastica/simona
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-sofia@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Sofia
+DESCRIPTION:Sofia își serbează numele. Sursa: https://trends.ro/onomasti
+ ca/sofia
+URL:https://trends.ro/onomastica/sofia
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-spiridon@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Spiridon
+DESCRIPTION:Spiridon își serbează numele. Sursa: https://trends.ro/onoma
+ stica/spiridon
+URL:https://trends.ro/onomastica/spiridon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-stefan@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ștefan
+DESCRIPTION:Ștefan își serbează numele. Sursa: https://trends.ro/onomas
+ tica/stefan
+URL:https://trends.ro/onomastica/stefan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-stefania@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Ștefania
+DESCRIPTION:Ștefania își serbează numele. Sursa: https://trends.ro/onom
+ astica/stefania
+URL:https://trends.ro/onomastica/stefania
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-tatiana@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Tatiana
+DESCRIPTION:Tatiana își serbează numele. Sursa: https://trends.ro/onomas
+ tica/tatiana
+URL:https://trends.ro/onomastica/tatiana
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-teodor@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Teodor
+DESCRIPTION:Teodor își serbează numele. Sursa: https://trends.ro/onomast
+ ica/teodor
+URL:https://trends.ro/onomastica/teodor
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-teodora@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Teodora
+DESCRIPTION:Teodora își serbează numele. Sursa: https://trends.ro/onomas
+ tica/teodora
+URL:https://trends.ro/onomastica/teodora
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-trifon@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Trifon
+DESCRIPTION:Trifon își serbează numele. Sursa: https://trends.ro/onomast
+ ica/trifon
+URL:https://trends.ro/onomastica/trifon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-varvara@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Varvara
+DESCRIPTION:Varvara își serbează numele. Sursa: https://trends.ro/onomas
+ tica/varvara
+URL:https://trends.ro/onomastica/varvara
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-vasile@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Vasile
+DESCRIPTION:Vasile își serbează numele. Sursa: https://trends.ro/onomast
+ ica/vasile
+URL:https://trends.ro/onomastica/vasile
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-vasilica@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Vasilica
+DESCRIPTION:Vasilica își serbează numele. Sursa: https://trends.ro/onoma
+ stica/vasilica
+URL:https://trends.ro/onomastica/vasilica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-victor@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+RRULE:FREQ=YEARLY
+SUMMARY:Onomastică: Victor
+DESCRIPTION:Victor își serbează numele. Sursa: https://trends.ro/onomast
+ ica/victor
+URL:https://trends.ro/onomastica/victor
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320425
+DTEND;VALUE=DATE:20320426
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330417
+DTEND;VALUE=DATE:20330418
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340402
+DTEND;VALUE=DATE:20340403
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorel-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350422
+DTEND;VALUE=DATE:20350423
+SUMMARY:Onomastică: Viorel
+DESCRIPTION:Viorel își serbează numele (sărbătoare mobilă\, easter-7)
+ . Sursa: https://trends.ro/onomastica/viorel
+URL:https://trends.ro/onomastica/viorel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320425
+DTEND;VALUE=DATE:20320426
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330417
+DTEND;VALUE=DATE:20330418
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340402
+DTEND;VALUE=DATE:20340403
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nameday-viorica-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350422
+DTEND;VALUE=DATE:20350423
+SUMMARY:Onomastică: Viorica
+DESCRIPTION:Viorica își serbează numele (sărbătoare mobilă\, easter-7
+ ). Sursa: https://trends.ro/onomastica/viorica
+URL:https://trends.ro/onomastica/viorica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-anul-nou@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+RRULE:FREQ=YEARLY
+SUMMARY:Anul Nou
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/anul-nou
+URL:https://trends.ro/sarbatori/anul-nou
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-boboteaza@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+RRULE:FREQ=YEARLY
+SUMMARY:Bobotează
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/boboteaza
+URL:https://trends.ro/sarbatori/boboteaza
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-craciun@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+RRULE:FREQ=YEARLY
+SUMMARY:Crăciun
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/craciun
+URL:https://trends.ro/sarbatori/craciun
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-dragobete@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+RRULE:FREQ=YEARLY
+SUMMARY:Dragobete
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/dragobete
+URL:https://trends.ro/sarbatori/dragobete
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290401
+DTEND;VALUE=DATE:20290402
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300421
+DTEND;VALUE=DATE:20300422
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310406
+DTEND;VALUE=DATE:20310407
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320425
+DTEND;VALUE=DATE:20320426
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330417
+DTEND;VALUE=DATE:20330418
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340402
+DTEND;VALUE=DATE:20340403
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-florii-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350422
+DTEND;VALUE=DATE:20350423
+SUMMARY:Florii
+DESCRIPTION:Sărbătoare mobilă (easter-7). Sursa: https://trends.ro/sarba
+ tori/florii
+URL:https://trends.ro/sarbatori/florii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280526
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290517
+DTEND;VALUE=DATE:20290518
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300606
+DTEND;VALUE=DATE:20300607
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310522
+DTEND;VALUE=DATE:20310523
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320610
+DTEND;VALUE=DATE:20320611
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330602
+DTEND;VALUE=DATE:20330603
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340518
+DTEND;VALUE=DATE:20340519
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-inaltarea-domnului-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350607
+DTEND;VALUE=DATE:20350608
+SUMMARY:Înălțarea Domnului
+DESCRIPTION:Sărbătoare mobilă (easter+39). Sursa: https://trends.ro/sarb
+ atori/inaltarea-domnului
+URL:https://trends.ro/sarbatori/inaltarea-domnului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280421
+DTEND;VALUE=DATE:20280422
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290413
+DTEND;VALUE=DATE:20290414
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300503
+DTEND;VALUE=DATE:20300504
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310418
+DTEND;VALUE=DATE:20310419
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320507
+DTEND;VALUE=DATE:20320508
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330429
+DTEND;VALUE=DATE:20330430
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340414
+DTEND;VALUE=DATE:20340415
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-izvorul-tamaduirii-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350504
+DTEND;VALUE=DATE:20350505
+SUMMARY:Izvorul Tămăduirii
+DESCRIPTION:Sărbătoare mobilă (easter+5). Sursa: https://trends.ro/sarba
+ tori/izvorul-tamaduirii
+URL:https://trends.ro/sarbatori/izvorul-tamaduirii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-martisor@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+RRULE:FREQ=YEARLY
+SUMMARY:Mărțișor
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/martisor
+URL:https://trends.ro/sarbatori/martisor
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290408
+DTEND;VALUE=DATE:20290409
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300428
+DTEND;VALUE=DATE:20300429
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310413
+DTEND;VALUE=DATE:20310414
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320502
+DTEND;VALUE=DATE:20320503
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330424
+DTEND;VALUE=DATE:20330425
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340409
+DTEND;VALUE=DATE:20340410
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-paste-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350429
+DTEND;VALUE=DATE:20350430
+SUMMARY:Paște
+DESCRIPTION:Sărbătoare mobilă (easter+0). Sursa: https://trends.ro/sarba
+ tori/paste
+URL:https://trends.ro/sarbatori/paste
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-revelion@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+RRULE:FREQ=YEARLY
+SUMMARY:Revelion
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/revelion
+URL:https://trends.ro/sarbatori/revelion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2026@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2027@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2028@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20280604
+DTEND;VALUE=DATE:20280605
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2029@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20290527
+DTEND;VALUE=DATE:20290528
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2030@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20300616
+DTEND;VALUE=DATE:20300617
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2031@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20310601
+DTEND;VALUE=DATE:20310602
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2032@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20320620
+DTEND;VALUE=DATE:20320621
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2033@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20330612
+DTEND;VALUE=DATE:20330613
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2034@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20340528
+DTEND;VALUE=DATE:20340529
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-rusalii-2035@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20350617
+DTEND;VALUE=DATE:20350618
+SUMMARY:Rusalii
+DESCRIPTION:Sărbătoare mobilă (easter+49). Sursa: https://trends.ro/sarb
+ atori/rusalii
+URL:https://trends.ro/sarbatori/rusalii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-andrei@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Andrei
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-andrei
+URL:https://trends.ro/sarbatori/sf-andrei
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-constantin-si-elena@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+RRULE:FREQ=YEARLY
+SUMMARY:Sfinții Constantin și Elena
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-constantin-si-elena
+URL:https://trends.ro/sarbatori/sf-constantin-si-elena
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-dumitru@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Dumitru
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-dumitru
+URL:https://trends.ro/sarbatori/sf-dumitru
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-ecaterina@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+RRULE:FREQ=YEARLY
+SUMMARY:Sfânta Ecaterina
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-ecaterina
+URL:https://trends.ro/sarbatori/sf-ecaterina
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-gheorghe@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Gheorghe
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-gheorghe
+URL:https://trends.ro/sarbatori/sf-gheorghe
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-ilie@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Ilie
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-ilie
+URL:https://trends.ro/sarbatori/sf-ilie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-ion@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Ion
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-ion
+URL:https://trends.ro/sarbatori/sf-ion
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-maria@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=YEARLY
+SUMMARY:Sfânta Maria Mare
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-maria
+URL:https://trends.ro/sarbatori/sf-maria
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-mihail-si-gavriil@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+RRULE:FREQ=YEARLY
+SUMMARY:Sfinții Mihail și Gavriil
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-mihail-si-gavriil
+URL:https://trends.ro/sarbatori/sf-mihail-si-gavriil
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-nectarie@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Nectarie
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-nectarie
+URL:https://trends.ro/sarbatori/sf-nectarie
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-nicolae@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Nicolae
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-nicolae
+URL:https://trends.ro/sarbatori/sf-nicolae
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-parascheva@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+RRULE:FREQ=YEARLY
+SUMMARY:Sfânta Parascheva
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-parascheva
+URL:https://trends.ro/sarbatori/sf-parascheva
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-petru-si-pavel@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+RRULE:FREQ=YEARLY
+SUMMARY:Sfinții Petru și Pavel
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-petru-si-pavel
+URL:https://trends.ro/sarbatori/sf-petru-si-pavel
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-spiridon@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Spiridon
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-spiridon
+URL:https://trends.ro/sarbatori/sf-spiridon
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-stefan@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Ștefan
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-stefan
+URL:https://trends.ro/sarbatori/sf-stefan
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sf-vasile@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+RRULE:FREQ=YEARLY
+SUMMARY:Sfântul Vasile
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sf-vasile
+URL:https://trends.ro/sarbatori/sf-vasile
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-sfanta-maria-mica@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+RRULE:FREQ=YEARLY
+SUMMARY:Sfânta Maria Mică
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/sfanta-maria-mica
+URL:https://trends.ro/sarbatori/sfanta-maria-mica
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-ziua-copilului@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+RRULE:FREQ=YEARLY
+SUMMARY:Ziua Copilului
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/ziua-copilului
+URL:https://trends.ro/sarbatori/ziua-copilului
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-ziua-culturii-nationale@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+RRULE:FREQ=YEARLY
+SUMMARY:Ziua Culturii Naționale
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/ziua-culturii-nationale
+URL:https://trends.ro/sarbatori/ziua-culturii-nationale
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-ziua-femeii@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+RRULE:FREQ=YEARLY
+SUMMARY:Ziua Femeii
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/ziua-femeii
+URL:https://trends.ro/sarbatori/ziua-femeii
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:occasion-ziua-nationala@trends.ro
+DTSTAMP:20260101T000000Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+RRULE:FREQ=YEARLY
+SUMMARY:Ziua Națională a României
+DESCRIPTION:Sursa: https://trends.ro/sarbatori/ziua-nationala
+URL:https://trends.ro/sarbatori/ziua-nationala
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

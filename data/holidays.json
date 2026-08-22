@@ -1,0 +1,212 @@
+[
+  {
+    "slug": "anul-nou",
+    "title": "Anul Nou",
+    "kind": "holiday",
+    "dateRule": "01-01"
+  },
+  {
+    "slug": "boboteaza",
+    "title": "Bobotează",
+    "kind": "holiday",
+    "dateRule": "01-06"
+  },
+  {
+    "slug": "condoleante",
+    "title": "Condoleanțe",
+    "kind": "life-event",
+    "dateRule": null
+  },
+  {
+    "slug": "craciun",
+    "title": "Crăciun",
+    "kind": "holiday",
+    "dateRule": "12-25"
+  },
+  {
+    "slug": "dragobete",
+    "title": "Dragobete",
+    "kind": "holiday",
+    "dateRule": "02-24"
+  },
+  {
+    "slug": "florii",
+    "title": "Florii",
+    "kind": "holiday",
+    "dateRule": "easter-7"
+  },
+  {
+    "slug": "inaltarea-domnului",
+    "title": "Înălțarea Domnului",
+    "kind": "holiday",
+    "dateRule": "easter+39"
+  },
+  {
+    "slug": "izvorul-tamaduirii",
+    "title": "Izvorul Tămăduirii",
+    "kind": "holiday",
+    "dateRule": "easter+5"
+  },
+  {
+    "slug": "martisor",
+    "title": "Mărțișor",
+    "kind": "holiday",
+    "dateRule": "03-01"
+  },
+  {
+    "slug": "nunta",
+    "title": "Nuntă",
+    "kind": "life-event",
+    "dateRule": null
+  },
+  {
+    "slug": "paste",
+    "title": "Paște",
+    "kind": "holiday",
+    "dateRule": "easter+0"
+  },
+  {
+    "slug": "revelion",
+    "title": "Revelion",
+    "kind": "holiday",
+    "dateRule": "12-31"
+  },
+  {
+    "slug": "rusalii",
+    "title": "Rusalii",
+    "kind": "holiday",
+    "dateRule": "easter+49"
+  },
+  {
+    "slug": "sf-andrei",
+    "title": "Sfântul Andrei",
+    "kind": "nameday",
+    "dateRule": "11-30"
+  },
+  {
+    "slug": "sf-constantin-si-elena",
+    "title": "Sfinții Constantin și Elena",
+    "kind": "nameday",
+    "dateRule": "05-21"
+  },
+  {
+    "slug": "sf-dumitru",
+    "title": "Sfântul Dumitru",
+    "kind": "nameday",
+    "dateRule": "10-26"
+  },
+  {
+    "slug": "sf-ecaterina",
+    "title": "Sfânta Ecaterina",
+    "kind": "nameday",
+    "dateRule": "11-25"
+  },
+  {
+    "slug": "sf-gheorghe",
+    "title": "Sfântul Gheorghe",
+    "kind": "nameday",
+    "dateRule": "04-23"
+  },
+  {
+    "slug": "sf-ilie",
+    "title": "Sfântul Ilie",
+    "kind": "nameday",
+    "dateRule": "07-20"
+  },
+  {
+    "slug": "sf-ion",
+    "title": "Sfântul Ion",
+    "kind": "nameday",
+    "dateRule": "01-07"
+  },
+  {
+    "slug": "sf-maria",
+    "title": "Sfânta Maria Mare",
+    "kind": "nameday",
+    "dateRule": "08-15"
+  },
+  {
+    "slug": "sf-mihail-si-gavriil",
+    "title": "Sfinții Mihail și Gavriil",
+    "kind": "nameday",
+    "dateRule": "11-08"
+  },
+  {
+    "slug": "sf-nectarie",
+    "title": "Sfântul Nectarie",
+    "kind": "nameday",
+    "dateRule": "11-09"
+  },
+  {
+    "slug": "sf-nicolae",
+    "title": "Sfântul Nicolae",
+    "kind": "nameday",
+    "dateRule": "12-06"
+  },
+  {
+    "slug": "sf-parascheva",
+    "title": "Sfânta Parascheva",
+    "kind": "nameday",
+    "dateRule": "10-14"
+  },
+  {
+    "slug": "sf-petru-si-pavel",
+    "title": "Sfinții Petru și Pavel",
+    "kind": "nameday",
+    "dateRule": "06-29"
+  },
+  {
+    "slug": "sf-spiridon",
+    "title": "Sfântul Spiridon",
+    "kind": "nameday",
+    "dateRule": "12-12"
+  },
+  {
+    "slug": "sf-stefan",
+    "title": "Sfântul Ștefan",
+    "kind": "nameday",
+    "dateRule": "12-27"
+  },
+  {
+    "slug": "sf-vasile",
+    "title": "Sfântul Vasile",
+    "kind": "nameday",
+    "dateRule": "01-01"
+  },
+  {
+    "slug": "sfanta-maria-mica",
+    "title": "Sfânta Maria Mică",
+    "kind": "nameday",
+    "dateRule": "09-08"
+  },
+  {
+    "slug": "zi-de-nastere",
+    "title": "Zi de naștere",
+    "kind": "life-event",
+    "dateRule": null
+  },
+  {
+    "slug": "ziua-copilului",
+    "title": "Ziua Copilului",
+    "kind": "holiday",
+    "dateRule": "06-01"
+  },
+  {
+    "slug": "ziua-culturii-nationale",
+    "title": "Ziua Culturii Naționale",
+    "kind": "holiday",
+    "dateRule": "01-15"
+  },
+  {
+    "slug": "ziua-femeii",
+    "title": "Ziua Femeii",
+    "kind": "holiday",
+    "dateRule": "03-08"
+  },
+  {
+    "slug": "ziua-nationala",
+    "title": "Ziua Națională a României",
+    "kind": "holiday",
+    "dateRule": "12-01"
+  }
+]

@@ -1,0 +1,58 @@
+Zile onomastice și sărbători românești — open data
+Copyright (c) 2026 trends.ro
+
+SPDX-License-Identifier: CC-BY-4.0
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+License (CC BY 4.0).
+
+    The full legal code governs and is available at:
+    https://creativecommons.org/licenses/by/4.0/legalcode
+    Human-readable summary: https://creativecommons.org/licenses/by/4.0/
+
+YOU ARE FREE TO:
+
+  Share   — copy and redistribute the material in any medium or format
+  Adapt   — remix, transform, and build upon the material
+            for any purpose, including commercially.
+
+UNDER THE FOLLOWING TERM:
+
+  Attribution — You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made. You may do so in any reasonable
+  manner, but not in any way that suggests the licensor endorses you or your
+  use.
+
+SUGGESTED ATTRIBUTION:
+
+    Source: trends.ro — Zile onomastice și sărbători românești (CC BY 4.0)
+    https://trends.ro
+
+SCOPE:
+
+Calendar dates are facts, and facts are not copyrightable in most
+jurisdictions. This license covers the compilation: the selection and
+arrangement of entries, the attribution of given names to feasts, the
+diminutives, the gender and confidence fields, and the explanatory notes.
+
+Where a database right subsists (for example the sui generis database right in
+the European Union), it is licensed on the same terms.
+
+AI AND MACHINE LEARNING:
+
+Use of this dataset for training, fine-tuning, retrieval-augmented generation
+and evaluation is expressly permitted under the terms above. Attribution is the
+only condition.
+
+This applies to THIS DATASET ONLY. It does not extend to any other content
+published by trends.ro — in particular the poems, which are community-authored
+works reproduced under their authors' rights and are not licensed for these
+purposes.
+
+NO WARRANTY:
+
+The dataset is provided "as is". Name-day attribution in Romanian practice is
+not uniformly settled; entries where sources disagree are marked with a
+`confidence` value other than "established" and carry an explanatory note.
+Verify against the calendar of the Romanian Orthodox Church
+(https://calendar.patriarhia.ro/) where correctness is critical.

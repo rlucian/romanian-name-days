@@ -1,0 +1,36 @@
+slug,title,kind,rule,movable
+anul-nou,Anul Nou,holiday,01-01,false
+boboteaza,Bobotează,holiday,01-06,false
+condoleante,Condoleanțe,life-event,,false
+craciun,Crăciun,holiday,12-25,false
+dragobete,Dragobete,holiday,02-24,false
+florii,Florii,holiday,easter-7,true
+inaltarea-domnului,Înălțarea Domnului,holiday,easter+39,true
+izvorul-tamaduirii,Izvorul Tămăduirii,holiday,easter+5,true
+martisor,Mărțișor,holiday,03-01,false
+nunta,Nuntă,life-event,,false
+paste,Paște,holiday,easter+0,true
+revelion,Revelion,holiday,12-31,false
+rusalii,Rusalii,holiday,easter+49,true
+sf-andrei,Sfântul Andrei,nameday,11-30,false
+sf-constantin-si-elena,Sfinții Constantin și Elena,nameday,05-21,false
+sf-dumitru,Sfântul Dumitru,nameday,10-26,false
+sf-ecaterina,Sfânta Ecaterina,nameday,11-25,false
+sf-gheorghe,Sfântul Gheorghe,nameday,04-23,false
+sf-ilie,Sfântul Ilie,nameday,07-20,false
+sf-ion,Sfântul Ion,nameday,01-07,false
+sf-maria,Sfânta Maria Mare,nameday,08-15,false
+sf-mihail-si-gavriil,Sfinții Mihail și Gavriil,nameday,11-08,false
+sf-nectarie,Sfântul Nectarie,nameday,11-09,false
+sf-nicolae,Sfântul Nicolae,nameday,12-06,false
+sf-parascheva,Sfânta Parascheva,nameday,10-14,false
+sf-petru-si-pavel,Sfinții Petru și Pavel,nameday,06-29,false
+sf-spiridon,Sfântul Spiridon,nameday,12-12,false
+sf-stefan,Sfântul Ștefan,nameday,12-27,false
+sf-vasile,Sfântul Vasile,nameday,01-01,false
+sfanta-maria-mica,Sfânta Maria Mică,nameday,09-08,false
+zi-de-nastere,Zi de naștere,life-event,,false
+ziua-copilului,Ziua Copilului,holiday,06-01,false
+ziua-culturii-nationale,Ziua Culturii Naționale,holiday,01-15,false
+ziua-femeii,Ziua Femeii,holiday,03-08,false
+ziua-nationala,Ziua Națională a României,holiday,12-01,false

@@ -1,0 +1,58 @@
+{
+  "name": "zile-onomastice",
+  "version": "1.0.0",
+  "description": "Romanian name days and holidays (zile onomastice și sărbători românești) as open data. Movable feasts computed from the Orthodox computus, not hardcoded. Zero dependencies.",
+  "keywords": [
+    "romania",
+    "romanian",
+    "onomastica",
+    "zile-onomastice",
+    "nameday",
+    "name-days",
+    "calendar",
+    "sarbatori",
+    "holidays",
+    "orthodox",
+    "easter",
+    "computus",
+    "open-data",
+    "ics",
+    "icalendar"
+  ],
+  "homepage": "https://trends.ro",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlucian/romanian-name-days.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rlucian/romanian-name-days/issues"
+  },
+  "license": "CC-BY-4.0",
+  "type": "module",
+  "main": "./index.mjs",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "default": "./index.mjs"
+    },
+    "./easter": "./easter.mjs",
+    "./data/*": "./data/*"
+  },
+  "types": "./index.d.ts",
+  "files": [
+    "index.mjs",
+    "index.d.ts",
+    "easter.mjs",
+    "data/",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test test.mjs api.test.mjs"
+  },
+  "sideEffects": false
+}
